@@ -1,5 +1,3 @@
-concrete-python
-numba
 numpy
 spacy
 nltk
